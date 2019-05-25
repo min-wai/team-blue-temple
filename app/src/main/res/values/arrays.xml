@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="region_image_titles">
+        <item>Kachin</item>
+        <item>Kayar</item>
+        <item>Kayin</item>
+        <item>Chin</item>
+        <item>Yangon</item>
+        <item>Yangon</item>
+        <item>Yangon</item>
+        <item>Yangon</item>
+        <item>Yangon</item>
+        <item>Yangon</item>
+        <item>Yangon</item>
+        <item>Yangon</item>
+        <item>Yangon</item>
+        <item>Yangon</item>
+    </string-array>
+
+    <string-array name="region_image_urls">
+        <item>https://firebasestorage.googleapis.com/v0/b/team-blue-temple.appspot.com/o/yangon_region.png?alt=media&amp;token=0e72e9f2-068e-42d7-bf3c-0e1d8bd5584e</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/team-blue-temple.appspot.com/o/yangon_region.png?alt=media&amp;token=0e72e9f2-068e-42d7-bf3c-0e1d8bd5584e</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/team-blue-temple.appspot.com/o/yangon_region.png?alt=media&amp;token=0e72e9f2-068e-42d7-bf3c-0e1d8bd5584e</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/team-blue-temple.appspot.com/o/yangon_region.png?alt=media&amp;token=0e72e9f2-068e-42d7-bf3c-0e1d8bd5584e</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/team-blue-temple.appspot.com/o/yangon_region.png?alt=media&amp;token=0e72e9f2-068e-42d7-bf3c-0e1d8bd5584e</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/team-blue-temple.appspot.com/o/yangon_region.png?alt=media&amp;token=0e72e9f2-068e-42d7-bf3c-0e1d8bd5584e</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/team-blue-temple.appspot.com/o/yangon_region.png?alt=media&amp;token=0e72e9f2-068e-42d7-bf3c-0e1d8bd5584e</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/team-blue-temple.appspot.com/o/yangon_region.png?alt=media&amp;token=0e72e9f2-068e-42d7-bf3c-0e1d8bd5584e</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/team-blue-temple.appspot.com/o/yangon_region.png?alt=media&amp;token=0e72e9f2-068e-42d7-bf3c-0e1d8bd5584e</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/team-blue-temple.appspot.com/o/yangon_region.png?alt=media&amp;token=0e72e9f2-068e-42d7-bf3c-0e1d8bd5584e</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/team-blue-temple.appspot.com/o/yangon_region.png?alt=media&amp;token=0e72e9f2-068e-42d7-bf3c-0e1d8bd5584e</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/team-blue-temple.appspot.com/o/yangon_region.png?alt=media&amp;token=0e72e9f2-068e-42d7-bf3c-0e1d8bd5584e</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/team-blue-temple.appspot.com/o/yangon_region.png?alt=media&amp;token=0e72e9f2-068e-42d7-bf3c-0e1d8bd5584e</item>
+        <item>https://firebasestorage.googleapis.com/v0/b/team-blue-temple.appspot.com/o/yangon_region.png?alt=media&amp;token=0e72e9f2-068e-42d7-bf3c-0e1d8bd5584e</item>
+    </string-array>
+</resources>
